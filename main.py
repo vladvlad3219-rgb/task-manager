@@ -8,7 +8,7 @@ def main():
 
    print("=" * 40)
    print("МЕНЕДЖЕР ЗАДАЧ")
-   print("версия 1.2.0 - ветка experiment")
+   print("версия 1.2.1 - изучение git")
    print("=" * 40)
 
 
